@@ -10,7 +10,7 @@
   <h2>Project Members:</h2>
 <ol>
 <ul>Name: Christopher Mireles, Email: Napalashe@csu.fullerton.edu</ul>
-<ul>Name: [INSERT YOUR NAME], Email: [INSERT EMAIL] </ul>
+<ul>Name: Aidan Jahn, Email: nobody34@csu.fullerton.edu</ul>
 <ul>Name: [INSERT YOUR NAME], Email: [INSERT EMAIL] </ul>
 <ul>Name: [INSERT YOUR NAME], Email: [INSERT EMAIL] </ul>
 <ul>Name: [INSERT YOUR NAME], Email: [INSERT EMAIL] </ul>
